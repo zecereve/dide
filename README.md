@@ -2,14 +2,14 @@
 Hacettepe University • GIS-Based Environmental Analysis  
 Student: Zeynep Ceren Erdem  
 
----
 
-## 📌 Project Overview  
+
+##  Project Overview  
 The Digital Detectives of Environment (DiDE) project focuses on identifying and understanding environmental pollution patterns on the Hacettepe University Beytepe Campus through **crowdsourced geographic information (CGI)**.  
 Students collect spatial data (trash bins, recycle bins, full bins, cigarette butts) and analyze spatio-temporal patterns to identify pollution hotspots and potential “environment detectives.”
 
 
----
+
 
 # Part 1 – Reading 
 
@@ -21,9 +21,9 @@ Scientific studies further highlight that cigarette butts act as localized sourc
 
 In addition to ecological impacts, cigarette butt litter contributes to negative visual perception and increases the workload of campus maintenance teams. Studies show that visible litter triggers further littering behavior, reinforcing an overall decline in environmental responsibility among individuals. Addressing cigarette butt pollution at Hacettepe University is, therefore, necessary not only to preserve campus cleanliness but also to support a culture of environmental awareness. Torkashvand et al. (2020) underline that cigarette butt accumulation reflects behavioral patterns within communities, and recognizing these patterns enables targeted interventions. For this reason, monitoring cigarette butt hotspots through the DiDE project is an essential step for understanding the spatial distribution of harmful waste and developing effective solutions. Overall, the scientific literature clearly shows that cigarette butt pollution poses chemical, ecological, and social challenges for university environments, making its identification and mitigation a critical need for our campus.
 
----
 
-## References (APA)
+
+## References 
 
 Novotny, T. E., Hardin, S. N., Hovda, L. R., Novotny, D. J., McLean, M. K., & Khan, S. (2009). Tobacco and cigarette butt consumption in humans and animals. *Tobacco Control*, 20(1), 1–5.
 
